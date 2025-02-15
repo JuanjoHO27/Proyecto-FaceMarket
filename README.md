@@ -1,17 +1,16 @@
-# Proyecto-FaceMarket
-
+# Sistema de Reconocimiento Facial para Compras Inteligentes
 
 ## Descripción
-El sistema FaceMarket permite la identificación de clientes en una tienda mediante reconocimiento facial. Se conecta a una base de datos para verificar su saldo disponible y los productos que están comprando, optimizando la experiencia de compra y garantizando seguridad en el proceso de pago.
+Este proyecto tiene como objetivo desarrollar un sistema de reconocimiento facial que identifique a los clientes en una tienda y se conecte a una base de datos para verificar su saldo disponible y los productos que están comprando. Optimiza la experiencia de compra y la seguridad del proceso de pago mediante la autenticación facial.
 
-## Tecnologías Utilizadas
-- **Lenguaje de Programación**: Python
-- **Librerías**: OpenCV para el reconocimiento facial
-- **Base de Datos**: SQL Server
-- **Metodología de Desarrollo**: SCRUM
+## Integrantes del Equipo
+- **Evanibaldo Rea Aviña** - Lider del proyecto
+- **Juan José Hernández Olmos** - Desarrollo Backend
+- **Juan Francisco Reyes Jasso** - Desarrollo de la Interfaz
+- **Evanibaldo Rea Aviña** - Integración y Base de Datos
 
-## Objetivo del Proyecto
-Desarrollar un sistema basado en reconocimiento facial que identifique a los clientes en una tienda y se conecte a una base de datos para verificar su saldo disponible y los productos adquiridos. Esto permitirá agilizar el proceso de compra y mejorar la seguridad en los pagos.
+## Objetivo del proyecto
+El objetivo principal es construir un sistema de reconocimiento facial que facilite las compras en una tienda, con una experiencia de usuario optimizada, además de proporcionar una verificación segura de los saldos y productos que un cliente tiene.
 
 ## Alcance del Proyecto
 1. **Autenticación del Cliente**: Identificación mediante reconocimiento facial.
@@ -48,20 +47,11 @@ Desarrollar un sistema basado en reconocimiento facial que identifique a los cli
    - Operativo al menos el 80% del tiempo laboral.
 
 ## Metodología de Desarrollo
-Se utilizará **SCRUM**, una metodología ágil que permite desarrollar el sistema en ciclos iterativos, con entregas incrementales y pruebas constantes. Se organizarán sprints de 2 semanas.
+Se utilizará **SCRUM**, una metodología ágil que permite desarrollar el sistema en ciclos iterativos, con entregas incrementales y pruebas constantes. Se organizarán sprints de 2 semanas, con entregas incrementales y pruebas constantes.
 
-## Integrantes del Equipo
-- **Juan José Hernández Olmos** - Desarrollo Backend
-- **Juan Francisco Reyes Jasso** - Desarrollo de la Interfaz
-- **Evanibaldo Rea Aviña** - Integración y Base de Datos
+## Tecnologías Utilizadas
+- **Lenguaje de Programación**: Python
+- **Librerías**: OpenCV para el reconocimiento facial
+- **Base de Datos**: SQL Server
+- **Metodología de Desarrollo**: SCRUM
 
-## Cronograma de Actividades
-| Actividad | Fecha de Inicio | Fecha de Finalización |
-|-----------|----------------|------------------|
-| Análisis y Planificación | 03/02/2025 | 16/02/2025 |
-| Desarrollo del Reconocimiento Facial | 17/02/2025 | 16/03/2025 |
-| Integración con la Base de Datos | 17/03/2025 | 30/03/2025 |
-| Implementación del Módulo de Compras | 31/03/2025 | 13/04/2025 |
-| Desarrollo de la Interfaz de Usuario | 14/04/2025 | 27/04/2025 |
-| Pruebas y Optimización | 28/04/2025 | 11/05/2025 |
-| Despliegue y Documentación | 12/05/2025 | 23/05/2025 |
